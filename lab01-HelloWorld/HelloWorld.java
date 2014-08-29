@@ -1,12 +1,12 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Brian Chen
+//Brian Chen
 //Demo 0
 //Hello World Java Program
 //
 //  first compile the program
 //      javac HelloWorld.java
 //  run the  program
-//      java HelloWorld//
+//      java HelloWorld
 
 //  define a class
 public class HelloWorld {
