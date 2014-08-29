@@ -15,6 +15,7 @@ public class WelcomeClass {
   public static void main(String[ ] args) {
         
 // print the message below 
+// to print "\" you must type"\\" or else java will treat it as an escape sequence
 
 System.out.println("  -----------");  
 System.out.println("  | WELCOME |");
