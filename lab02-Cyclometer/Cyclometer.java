@@ -27,7 +27,7 @@ public class Cyclometer{
         System.out.println("Trip 2 took "+ (secsTrip2/secondsPerMinute)+" minutes and had "+ countsTrip2+" counts.");
         
         // Calculate the distance traveled in trip 1
-        // Above gives distance in inches
+        // Below gives distance in inches
         // (for each count, a rotation of the wheel travels
         // the diameter in inches times PI) 
         distanceTrip1=countsTrip1*wheelDiameter*PI; 
