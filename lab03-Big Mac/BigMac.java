@@ -14,7 +14,7 @@ public class BigMac{
     public static void main(String [] args){
         
         Scanner myScanner; // Declare as variable
-        myScanner = new Scanner( System.in ); // Tells Scanner that you are creating an instance that will take input from STDIN
+        myScanner = new Scanner(System.in); // Tells Scanner that you are creating an instance that will take input from STDIN
             
         System.out.print("Enter the number of Big Macs(an integer > 0): "); // System will not go to the beginning of the next line after displaying the prompt
         
@@ -26,7 +26,7 @@ public class BigMac{
         double taxRate = myScanner.nextDouble(); // Defines tax as a double
         taxRate/=100; // User enters percent, but I want proportion
         
-        double cost$; // Defines totoal cost a double
+        double cost$; // Defines total cost a double
         int dollars, // Defines dollars as an integer, since they are without decimals
             dimes, pennies; // Defines dimes and pennies as integers in order to add them and get cost to be a double 
         cost$ = nBigMacs*bigMac$*(1+taxRate); // Formula for calculating total cost

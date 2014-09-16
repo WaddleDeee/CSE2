@@ -33,7 +33,7 @@ public class Cyclometer{
         distanceTrip1=countsTrip1*wheelDiameter*PI; 
         
         // Converts to distance in miles 
-        distanceTrip1/=inchesPerFoot*feetPerMile; 
+        distanceTrip1=inchesPerFoot*feetPerMile; 
         
         // Converts to distance in miles
         distanceTrip2=countsTrip2*wheelDiameter*PI/inchesPerFoot/feetPerMile; 
