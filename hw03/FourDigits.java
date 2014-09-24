@@ -29,8 +29,8 @@ public class FourDigits{
         
         answer =  integer % integer2; // Remainder operation used to display remainder only ex. 22223 % 20000 = 2223
         
-        System.out.print("The four digits are "); // Printing the worded portion of the statement 
-        System.out.println(String.format("%04d", answer)); // Printing the answer in '0000' format 
+        System.out.print("The four digits are "); // Prints the worded portion of the statement 
+        System.out.println(String.format("%04d", answer)); // Prints the answer in '0000' format 
         
     } // end of main method
 } // end of main class
