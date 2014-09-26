@@ -3,7 +3,7 @@
 // September 22nd, 2014 
 // CSE002 HW 04
 //
-// This program will alow users to calculate the income tax of a person depending on their income bracket
+// This program will allow users to calculate the income tax of a person depending on their income bracket
 //
 // Add scanner
 import java.util.Scanner;
