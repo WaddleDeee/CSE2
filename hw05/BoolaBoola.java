@@ -3,7 +3,7 @@
 // September 26th, 2014 
 // CSE002 HW05
 //
-// This program will allow users to play various card games such as roulette or craps
+// This program will allow users to randomly answer a question pertaining to boolean operator values
 //
 // Add scanner
 import java.util.Scanner;
