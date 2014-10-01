@@ -3,7 +3,7 @@
 // September 26th, 2014 
 // CSE002 Lab 5
 //
-// This program will alow users to play various card games such as roulette or craps
+// This program will allow users to play various card games such as roulette or craps
 //
 // Add scanner
 import java.util.Scanner;
